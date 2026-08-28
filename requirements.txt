@@ -6,3 +6,4 @@ langchain-mistralai
 langchain-text-splitters
 chromadb
 pypdf
+gunicorn

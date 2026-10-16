@@ -23,20 +23,3 @@ Ye ek simple AI-powered interviewing web app hai jo **Flask**, **LangChain**, au
 
 ---
 
-## 📁 Project Structure
-
-langchain-ai-interviewer/
-│
-├── static/
-│   ├── style.css
-│   └── script.js
-├── templates/
-│   └── index.html
-├── .gitignore
-├── app.py
-├── interviewer.py
-├── README.md
-└── requirements.txt
-
-
-Live Link = "https://langchain-ai-interviewer-2.onrender.com/"
